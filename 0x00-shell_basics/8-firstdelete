@@ -1,2 +1,2 @@
 #!/bin/bash
-rmv /tmp/my_first_directory/betty
+rmv /tmp/my_first_directory/betty/
